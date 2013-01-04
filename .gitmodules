@@ -1,0 +1,3 @@
+[submodule "lessphp"]
+	path = lessphp
+	url = https://github.com/leafo/lessphp.git
